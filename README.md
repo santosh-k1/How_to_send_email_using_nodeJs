@@ -19,6 +19,6 @@ This project demonstrates how to send emails using Node.js with the **Nodemailer
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/How_to_send_email_using_nodeJs.git
+git clone https://github.com/santosh-k1/How_to_send_email_using_nodeJs.git
 cd How_to_send_email_using_nodeJs
 npm install
